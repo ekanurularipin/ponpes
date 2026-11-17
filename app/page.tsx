@@ -235,7 +235,7 @@ export default function HomePage() {
                     className="w-full h-80 sm:h-96 object-cover object-top"
                   />
                   <div className="absolute bottom-0 inset-x-0 bg-linear-to-t from-slate-950/90 to-transparent p-6 text-white text-center">
-                    <h3 className="font-bold text-lg">KH. Asep Rizal</h3>
+                    <h3 className="font-bold text-lg">KH. Bubung Nizar, S.Pd.I.</h3>
                     <p className="text-xs text-amber-300">Ketua Yayasan Al-Mukhtariyah</p>
                   </div>
                 </div>
