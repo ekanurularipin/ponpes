@@ -57,7 +57,7 @@ export default function HomePage() {
             <a href="#ppdb" className="hover:text-[#0B5E36] transition">
               Info PPDB
             </a>
-            <a href="https://ponpes-mukhtariyah.emergent.host/"  className="hover:text-[#0B5E36] transition">
+            <a href="https://adminalmukhtariyah.vercel.app/auth/login"  className="hover:text-[#0B5E36] transition">
               Login
             </a>
           </nav>
